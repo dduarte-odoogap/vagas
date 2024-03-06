@@ -1,7 +1,7 @@
 ---
 name: Nova vaga
 about: Informações da vaga
-title: '[São Paulo/SP | Santos/SP | Remoto] Front-end Vue.js Developer @ {Empresa}'
+title: '[Viseu, Portugal | Remoto] Vue.js / Nuxt.js developer - Full/Part Time (min 30h/semana) @ {erpgap}'
 labels: ''
 assignees: ''
 ---
@@ -10,12 +10,11 @@ assignees: ''
 
 ## Descrição da vaga
 
-Projeto bacana com Vue.js, etc..
+eCommerce com Nuxt3 e Vuestorefront
 
 ## Local
 
-Remoto ou Escritório, São Paulo/SP - Vila Madalena
-
+Remoto ou Escritório, Viseu / Portugal
 ## Benefícios
 
 - Plano de saúde
@@ -26,21 +25,18 @@ Remoto ou Escritório, São Paulo/SP - Vila Madalena
 
 #### Diferenciais
 
-- 2 horas de almoço
-- Monte a sua máquina como desejar
-- Frigobar sempre cheio :P
-- Sala de jogos
-- ...
+- Horário fléxivel
+- Ambiente informal
+- Oportunidade de participar em projeto opensource
+- Projetos internacionais
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com desenvolvimento JavaScript
-- 2 anos de experiência com desenvolvimento Vue.js
-- 1 ano de experiência com desenvolvimento Nuxt.js
+- 3 ano de experiência com desenvolvimento Nuxt.js
+- GIT
 
 **Desejáveis:**
-- Cnhecimentos em Vuex
 - Conhecimentos em GraphQL
 
 **Diferenciais:**
@@ -52,18 +48,16 @@ PJ a combinar.
 
 ## Nossa empresa
 
-Aqui na Corporação XPTO somos líderes em...
+Na ERPGAP vivemos e respiramos código aberto e inovação contínua. No momento, estamos procurando um desenvolvedor Vue.js/Nuxt.js.
 
-**Aqui usamos:**
-- Vue.js
-- PHP
-- C#
-- AWS
-- ...
+Os nossos escritórios estão localizados em Viseu e Aveiro, mas também oferecemos posições remotas.
+
+Cultivamos uma cultura de amizade e apoio mútuo e valorizamos o bem-estar de todos e o crescimento pessoal e profissional contínuo. Nossa equipe está muito focada em entregar valor aos nossos clientes e gostamos de trabalhar com pensadores livres que não fazem apenas o que lhes é pedido. Gostamos muito de ouvir outras opiniões.
+
 
 ## Como se candidatar
 
-Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar no assunto: _Vaga Vue.js_
+[Portal de recrutamento ERPGAP: https://hr.erpgap.com](https://hr.erpgap.com/jobs/detail/vue-js-nuxt-js-developer-full-time-4)
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
@@ -74,15 +68,11 @@ Por favor, envie um e-mail para email@empresa.com.br com seu CV anexado. Enviar 
 - Remoto
 
 #### Experiência
-- Estágio
-- Júnior
 - Pleno
 - Sênior
 
 #### Regime
 - A-Combinar
 - CLT
-- Estágio
 - Freela
 - Outros
-- PJ
